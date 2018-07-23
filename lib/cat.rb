@@ -8,5 +8,3 @@ class Cat
     @mood = "nervous"
   end
 end
-
-  # code goes here
