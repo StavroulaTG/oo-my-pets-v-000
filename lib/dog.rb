@@ -7,5 +7,4 @@ class Dog
     @name = name
     @mood = "nervous"
   end
-  # code goes here
 end
